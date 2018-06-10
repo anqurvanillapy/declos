@@ -25,7 +25,7 @@ main()
 
     printf("a=%d, b=%d\n", a, b); // a=42, b=69
     clos_run(foo);
-    printf("a=%d, b=%d\n", a, b); // a=42, b=70
+    printf("a=%d, b=%d\n", a, b); // a=43, b=70
 
     return 0;
 }
