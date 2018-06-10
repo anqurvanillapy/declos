@@ -4,7 +4,7 @@ Declare and run a closure-like nested function in C, based on `setjmp.h`.  It
 does not provide different ways of capturings (e.g. by-value, by-reference),
 only concerned with the *upvalues*.
 
-*Disclaimer:* Definitely unsafe.  Use with your helmets on.
+**Disclaimer:** Definitely unsafe.  Use with your helmets on.
 
 ## Usage
 
